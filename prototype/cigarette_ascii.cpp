@@ -58,6 +58,11 @@ cigLength--;
 return;
 }
 
+void ember()
+    {
+
+    }
+
 int main(){
 
 
